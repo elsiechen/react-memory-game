@@ -13,7 +13,7 @@ Welcome to the Memory Card Game, a fun and challenging way to test your short-te
 
 ## Demo
 
-Check out the [**live**]() demo.
+Check out the [**live**](https://stupendous-chebakia-89b31c.netlify.app) demo.
 
 ## Technologies Used
 
