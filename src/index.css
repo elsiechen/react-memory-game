@@ -1,0 +1,54 @@
+:root {
+  padding: 1rem;
+  margin: 0;
+  box-sizing: border-box;
+  /* Custom property */
+  --main-color: rgb(25, 167, 206);
+  --second-color: green;
+  /* Background */
+  background-image: url('/grass.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: 'donut';
+  src: url('/fonts/donut.woff2') format('woff2'),
+       url('/fonts/donut.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'hug';
+  src: url('/fonts/hug.woff2') format('woff2'),
+       url('/fonts/hug.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'smile';
+  src: url('/fonts/smile.woff2') format('woff2'),
+       url('/fonts/smile.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pokemon_hollow';
+  src: url('/fonts/pokemon_hollow.woff2') format('woff2'),
+       url('/fonts/pokemon_hollow.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pokemon_solid';
+  src: url('/fonts/pokemon_solid.woff2') format('woff2'),
+       url('/fonts/pokemon_solid.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
